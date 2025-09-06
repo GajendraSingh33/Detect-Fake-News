@@ -1,0 +1,5 @@
+import requests
+
+url = 'https://newsapi.org/v2/top-headlines?language=en&apiKey=63ea5a9eb3c74aad925806825e85b2dc'
+response = requests.get(url)
+articles = response.json()['articles']
