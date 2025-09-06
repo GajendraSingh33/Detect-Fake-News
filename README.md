@@ -1,4 +1,5 @@
-📰 Fake News Detection
+📰 Fake News Detection :-
+
 Fake News Detection is a machine learning app that classifies news articles as Real or Fake.
 It uses natural language processing (NLP) techniques and a trained model to analyze text and predict credibility with confidence scores.
 
