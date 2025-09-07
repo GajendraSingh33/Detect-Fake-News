@@ -29,3 +29,5 @@ Cross-validation for robust model performance
 True.csv → Legitimate news articles
 Fake.csv → Fake/misleading news articles
 
+Run :
+streamlit run app.py
